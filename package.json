@@ -6,12 +6,12 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy":"gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://GangeshSrivastava.github.io/company-website",
+  "homepage": "https://GangeshSrivastava.github.io/company-website",
   "dependencies": {
     "bootstrap": "^4.5.2",
     "gh-pages": "^3.1.0",
