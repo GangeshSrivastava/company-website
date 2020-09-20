@@ -10,5 +10,5 @@ echo 'www.app2ai.com' > CNAME
 git init
 git add -A
 git commit -m 'deploy'
-git push -f https://github.com:GangeshSrivastava/company-website master:gh-pages
+git push -f https://github.com/GangeshSrivastava/company-website.git master:gh-pages
 cd -
