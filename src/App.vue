@@ -8,13 +8,13 @@
    top: 0;
    left: 0;
    right: 0;
-   width: 100%;
-   height: 50px;
+   width: auto;
+   height: auto;
    background: white">
       <div class="container">
         <!-- <a class="navbar-brand js-scroll-trigger" href="#page-top"> <strong> COD3 </strong></a> -->
         <a href="#page-top">
-        <img class="rounded-circle img-fluid" href="#page-top" src="../img/cod.jpg" alt="">
+        <!-- <img class="rounded-circle img-fluid" href="#page-top" src="../img/cod.jpg" alt=""> -->
         </a>
         <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
