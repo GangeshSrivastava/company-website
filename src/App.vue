@@ -827,7 +827,7 @@ To give quality output with the existing technology and continuous improvisation
 //import Portfolio from './components/Portfolio'
 //import Slider from "./components/Slider.vue";
 export default {
-  // name: "app",
+  name: "app",
     data: () => ({
         portfolioJSON: [
             {
